@@ -1,8 +1,8 @@
 # Deploying-Store-Contract
 We are going to use python to deploy our store smart contract to the Ethereum blockchain. What we used 
-##solidty
+## solidty
 Was our main programming langiage for the contract
-##infura
+## infura
 Was our Ethereum node provider
-##Metamask 
+## Metamask 
 To store my assets and get public and private key
